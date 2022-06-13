@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\bin\Debug\net6.0\LinqLibary.deps.json
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\bin\Debug\net6.0\LinqLibary.dll
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\bin\Debug\net6.0\LinqLibary.pdb
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.dll
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\refint\LinqLibary.dll
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\LinqLibary.pdb
+C:\Users\Usuario\source\repos\Learning\Linq_Tutorial\LinqLibary\obj\Debug\net6.0\ref\LinqLibary.dll
